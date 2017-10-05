@@ -2,7 +2,7 @@
 
 import unittest
 
-from edades import Edades
+from Edades import Edades
 
 class TestEdad(unittest.TestCase):
 
